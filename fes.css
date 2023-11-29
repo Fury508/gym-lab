@@ -1,0 +1,36 @@
+/* Style the header */
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+/* Center the content */
+
+body {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* Style the sections */
+
+section {
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #1a1a1a; 
+}
+
+/* Style the footer */
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
